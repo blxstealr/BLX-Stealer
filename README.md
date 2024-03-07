@@ -121,7 +121,5 @@ This tool is for educational purposes only. It is coded for you to see how your 
 ## License:
 By downloading this, you agree to the Commons Clause license and that you're not allowed to sell this repository or any code from this repository. For more info see https://commonsclause.com/.
 
-## Thanks to;
-[![Stargazers repo roster for @blxstealer/BLX-Stealer](https://reporoster.com/stars/blxstealer/BLX-Stealer)](https://github.com/blxstealer/BLX-Stealer/stargazers)
 
 <img  src="img/image2.png">
