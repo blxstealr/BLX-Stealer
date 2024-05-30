@@ -20,7 +20,7 @@
  
 <p align="center">
   Telegram: https://t.me/blxstealer
-  Discord: https://discord.gg/blx
+  Discord: https://discord.gg/kYmyMkGUC2
 <br>
 
 </p>
