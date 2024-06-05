@@ -10,8 +10,6 @@ psutil
 pyinstaller
 wmi
 fade
-ctypes
 psutil
-getmac
 get-mac
-OpenSSL
+customtkinter
