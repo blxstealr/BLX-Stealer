@@ -1,6 +1,5 @@
 pyOpenSSL
 requests
-Crypto.Cipher
 pycryptodome
 pystyle
 colorama
