@@ -7,7 +7,7 @@ from tkinter import messagebox, filedialog
 
 ctk.set_appearance_mode("dark")
 app = ctk.CTk()
-app.title(f"t.me/blxstealer | Builder by @cankat")
+app.title(f"t.me/blxstealer | BLX Stealer")
 app.iconbitmap("img\\blx.ico")
 app.geometry("580x300")
 app.resizable(False, False)
