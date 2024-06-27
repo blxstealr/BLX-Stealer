@@ -20,7 +20,7 @@
  
 <p align="center">
   Telegram: https://t.me/blxstealer
-  Discord: https://discord.gg/kYmyMkGUC2
+  Discord: https://discord.gg/blx
   Add star to repository for new updates.
 <br>
 
